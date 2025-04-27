@@ -1,0 +1,23 @@
+# Ambiente virtuale
+venv/
+
+# File con password / variabili ambiente
+.env
+
+# Cache di Python
+__pycache__/
+*.pyc
+*.pyo
+
+# File di sistema
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+
+# Altri file temporanei
+*.log
+*.tmp
+*.swp
